@@ -1,0 +1,1 @@
+Machine learning pipeline for solar energy forecasting and anomaly detection using real-world photovoltaic plant data, featuring preprocessing, feature engineering, deep learning workflows, and time-series analysis in Python.
